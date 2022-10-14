@@ -1,0 +1,44 @@
+#header {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 10px;
+    color: white;
+    margin: auto;
+    border: 10px darkblue;
+    margin: 10px 10px 20px 10px;
+    border-radius: 30px;
+
+}
+
+#box1 {
+    background-color:lime;
+    color:darkblue;
+    border-radius: 30px;
+    width: 300px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 10px 20px 10px;
+    border: 10px solid darkblue;
+    padding: 15px;
+    text-align: center;
+    margin: auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;  
+}
+
+#content {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+.image {
+    margin: auto;
+    width: 25em;
+    
+}
+
+body {
+    background-color: black;
+}
+
